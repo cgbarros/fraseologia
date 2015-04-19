@@ -1,3 +1,5 @@
+%%% CONSOLIDADO (sem revisões)
+
 FRASEOLOGIA
 
 Em sua projeção temporal os sons tendem a se articular em pequenos agrupamentos delimitados por cesuras. Estes agrupamentos concatenam-se entre si, formando conjuntos maiores, os quais se encadeiam com os seguintes, formando novos grupos. O caráter desta projeção é sintático, semelhante ao discurso verbaI. Seu estudo: Fraseologia.
@@ -10,9 +12,9 @@ Quanto maior a afinidade entre os componentes estruturais, tanto maior a coesão
 
 (tabela 1)
 
-1. Fatores Básicos de Coesão
+1.1. Fatores Básicos de Coesão
 
-1.1 Alturas 
+1.1.1 Alturas 
 
 Movimento unidirecional
 Homogeneidade do gênero
@@ -20,28 +22,69 @@ Homogeneidade ou coerência harmônica
 Homogeneidade de configuração
 Textura homogênea
 
-1.2 Durações
+1.1.2 Durações
 
 Emissões isócronas
 Configurações homogêneas {nota: esclarecimento posterior}
 
 (/tabela 1)
 
+N. B. - Embora a homogeneidade dos timbres condicione a coesão, torna-se inoperante sua especificação na estrutura da sintaxe.
+
 2. DA PROXIMIDADE E SEPARAÇÃO
 
 (tabela 2) % ver original para entender a tabulação
 
-1. Alturas
+2.1. Alturas
 
-1.1 Registro
+2.1.1 Registro
 Proximidade - Idênticos ou Contíguos
 Separação - Distanciados
 
-1.2 Espaço Melódico
-Proximidade - Mínimo (semitom)
+2.1.2 Espaço Melódico
+Proximidade - Mínimo (semitom) {nota: no temperamento igual}
 Separação - Máximo
 
-1.3 Espaço Harmônico
+2.1.3 Espaço Harmônico
 Proximidade - Notas atrativas
 Separação - Resolução (especialmente a cadência)
 (/tabela 2)
+
+2.2 Durações
+
+2.2.1 Pausa
+Quanto mais longa, tanto maior a separação.
+
+2.2.2 Velocidade das emissões
+Quanto mais rápida, tanto maior o nexo com o próximo som e vice-versa.
+
+0bs.: Contrad¡tor¡amente, a _semelhança_ de configurações melódicas ou rítmicas condiciona a _coesão_ e a _separação_ dos agrupamentos. Em outras paIavras: a homogeneidade propicia a coesão do conjunto; os agrupamentos, porém, são autônomos, estando separados por cesuras.
+
+[EXEMPLO 1]
+
+%%% Arquivo OCR atual: fraseologia_07_1L.txt
+%%% Página da edição: 12
+
+0s elementos fraseológicos subordinam-se às leis do movimento. A fraseologia é, po¡s, uma manifestação do RITMO.
+
+Como foi visto anteriormente, cada movimento é constituído de duas fases:
+
+Impulso ou ARSIS
+
+Apoio ou THESIS
+
+Em muitos agrupamentos, a _ARSIS_ está omit¡da. Estando presente, constitui a fase inicial do movimento, cabendo à _THESIS_ a complementação. Cada um dos movimentos possui uma tendência específica. O impulso é a manifestação de energia, tendendo a durar o menos possível, enquanto que o apoio se identifica com o repouso, tendendo a durar mais.
+
+Cada agrupamento musical pode ser classificado de duas mane¡ras:
+a) quanto ao início
+b) quanto ao final.
+Em cada uma das maneiras, há várias possibilidades:
+
+a) Quanto ao início
+
+a.1) Se o agrupamento ¡n¡ciar com a _Thesis_{N.E.: ênfase só na edição}, o rítmo é TÉTICO. Exemplos 2a; 2b.
+
+a.2) Se o agrupamento ¡n¡ciar com a _Arsis_{N.E.: ênfase só na edição}, o ritmo é ANACRÚSICO. {nota: 0 fragmento que preceda a Thesis denomina-se anacrusis} Exemplos 3a; 3b.
+
+a.3) Se o agrupamento iniciar após a _Thesis_{N.E.: ênfase só na edição}, com precedência de pausa não superior a um tempo, o ritmo é ACÉFALO, DECAPITADO ou PROCATALÉTICO. Exemplo 4.
+
